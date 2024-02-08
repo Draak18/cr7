@@ -1,0 +1,34 @@
+body {
+    background-size: cover;
+    background-image: url(img/22a66ef9fc1067375df29ee4fd04954b.jpg);
+    background-repeat: no-repeat;
+}
+
+.hehe {
+    bottom: 20vh;
+    left: 82.5vh;
+    color: black;
+    position: absolute;
+}
+
+.tlgd{
+    color: white;
+    position: absolute;
+}
+
+.box{
+    position: absolute;
+    bottom: 20vh;
+    left: 80vh;
+    background-color: white    ;
+    width: 450px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    -webkit-box-shadow: 10px 10px 76px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 76px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 76px 0px rgba(0,0,0,0.75);
+}
+
